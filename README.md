@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/repo-size/Rgiacobo/projetoDevLink?style=for-the-badge" alt="">
-<img src="https://img.shields.io/github/license/vitorRibeiro7/LinkHub-HAKEN?style=for-the-badge" alt="">
+<img src="https://img.shields.io/github/license/Rgiacobo/projetoDevLink?style=for-the-badge" alt="">
 <img src="https://img.shields.io/github/commit-activity/y/Rgiacobbo/projetoDevLink?style=for-the-badge" alt="">
 <br>
 <br>
